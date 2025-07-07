@@ -23,3 +23,11 @@ Follow these steps to get the app running on your machine:
 ```bash
 git clone https://github.com/yourusername/photobooth-app.git
 cd photobooth-app
+
+npm install
+npm run dev
+
+Open the app in your browser
+Visit: http://localhost:3000
+
+
