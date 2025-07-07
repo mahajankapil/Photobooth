@@ -2,7 +2,7 @@
 
 A high-fidelity Next.js-based PhotoBooth app that lets users capture selfies, apply retro & modern filters, and generate photo collages — directly from your browser.
 
-![Preview](./preview.png)
+🔗 Live Preview: [https://photobooth-azure-seven.vercel.app](https://photobooth-azure-seven.vercel.app)
 
 ## ✨ Key Features
 
