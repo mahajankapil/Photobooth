@@ -24,6 +24,8 @@ Follow these steps to get the app running on your machine:
 git clone https://github.com/yourusername/photobooth-app.git
 cd photobooth-app
 
+2️⃣ Install dependencies
+
 npm install
 npm run dev
 
